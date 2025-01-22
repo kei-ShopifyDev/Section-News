@@ -1,0 +1,103 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_Q4L668": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_igXqkG": {
+          "type": "heading",
+          "settings": {
+            "heading": "会社概要",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_igXqkG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "company_ECqEQT": {
+      "type": "company",
+      "blocks": {
+        "table_6GiwhR": {
+          "type": "table",
+          "settings": {
+            "th": "会社名",
+            "td": "<p>株式会社デイトラ<\/p>"
+          }
+        },
+        "table_QzYJGE": {
+          "type": "table",
+          "settings": {
+            "th": "所在地",
+            "td": "<p>〒170-6045 東京都豊島区東池袋3-1-1 サンシャイン60 45階<\/p>"
+          }
+        },
+        "table_dxAhPi": {
+          "type": "table",
+          "settings": {
+            "th": "代表者名",
+            "td": "<p>代表取締役　大滝昇平<\/p>"
+          }
+        },
+        "table_wePPEA": {
+          "type": "table",
+          "settings": {
+            "th": "電話番号",
+            "td": "<p>00-0000-0000<\/p>"
+          }
+        },
+        "table_DB79P6": {
+          "type": "table",
+          "settings": {
+            "th": "メールアドレス",
+            "td": "<p>support@dailytrial.com<\/p>"
+          }
+        },
+        "table_eBeVK9": {
+          "type": "table",
+          "settings": {
+            "th": "取扱商品",
+            "td": "<p>アロハシャツ<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "table_6GiwhR",
+        "table_QzYJGE",
+        "table_dxAhPi",
+        "table_wePPEA",
+        "table_DB79P6",
+        "table_eBeVK9"
+      ],
+      "settings": {
+        "page-width": 1000,
+        "td-width": 70,
+        "pc_margin-top": 10,
+        "pc_margin-bottom": 60,
+        "sp_margin-top": 10,
+        "sp_margin-bottom": 10
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_Q4L668",
+    "company_ECqEQT"
+  ]
+}
